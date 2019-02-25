@@ -3,27 +3,44 @@ Sales Management Platform (SMP): overall Expectation
 End to End tracking of products, sales and report generation.
 	
 	
-Module details:
-	Module 1: Data Management of stock details in system
-	Module 2: Managing the daily incoming and outgoing stock detais
-	Module 3: Report generation based on customer needs
-	
-Module 1:
-1. Module should be flexible enough to do load the stock data manually through UI or using blk upload
-2. Module should be flexible enough to handle the promotional and offers for specific products based on conditions
-3. Module should be flexible enough to suggest the produts which can be applicable for offers based on business conditions
-4. Module should be flexible enough to suggest enough to suggest the offer percentage for each product indivudually also
-5. Module should be flexible enough to handle the information where the product resides now (i.e, either in warehouse or display/shipment)
-6. Module should be capable enough to calculate the profit/loss by excluding the samples of each products
+Modules:
+========
+stock details management:
+-------------------------
+1. Load stock data manually through UI or using bulk upload
+2. Track the status of each stock (whether it is in warehouse or showroom)
+3. Based on the daily sales report prepare a list of stock to be brough from warehouse to display
 
+Pricing:
+--------
+1. Generate price for each product by considering the buying and profit margin percentage for each product
+2. Analyse the pending stocks and based on the profit margin determine the offer price
 
-Module 2:
-1. System should be flexible enough to handle the stock details of daily incoming and outgoing sales report.
-2. Generate the bill with proper details
-3. Module should be capable enough to handle the customer details
-4. Module should be flexible enough to track the reward points of and add consestion in the bill.
-5. Module should be flexible enough to update hte database by considering the return details. 
+Sales Forcasting:
+-----------------
+1. For seasonal sales, identify the demand for each products to adjust the stock supply
 
+Predective Analysis:
+--------------------
+1. Predict the list of best selling items for each seasonal duration
+2. predict the combination of products in selling
+3. predict the list of demanding produts for near future
 
-Module 3:
-1. Generate the reports based on the user requirements
+Daily sales detais:
+-------------------
+1. Daily sales tracking and bill generation 
+2. collecting and tracking the customer details and applying reward points 
+3. tracking the returning products and updating the stock details properly
+
+Notifications:
+--------------
+1. sending offer notifications in mail/message to customers
+
+Report Generation:
+------------------
+1. Generate simple and effective reports to give a better view on the sales, stocks and prediction
+2. Generate the invoice of stocks moving in and out of datawarehouse and showroom
+
+user controls:
+--------------
+1. provide provide user controls to respective employees in platform 
