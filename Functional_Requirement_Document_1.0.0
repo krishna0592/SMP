@@ -4,9 +4,9 @@ End to End tracking of products, sales and report generation.
 	
 	
 Module details:
-	Module 1: Data availability of stock details in system
+	Module 1: Data Management of stock details in system
 	Module 2: Managing the daily incoming and outgoing stock detais
-	Module 3: Report generation based on the daily monthly details
+	Module 3: Report generation based on customer needs
 	
 Module 1:
 1. Module should be flexible enough to do load the stock data manually through UI or using blk upload
@@ -14,12 +14,13 @@ Module 1:
 3. Module should be flexible enough to suggest the produts which can be applicable for offers based on business conditions
 4. Module should be flexible enough to suggest enough to suggest the offer percentage for each product indivudually also
 5. Module should be flexible enough to handle the information where the product resides now (i.e, either in warehouse or display/shipment)
+6. Module should be capable enough to calculate the profit/loss by excluding the samples of each products
 
 
 Module 2:
 1. System should be flexible enough to handle the stock details of daily incoming and outgoing sales report.
 2. Generate the bill with proper details
-3. Module should be capable enough to handle the customer detailst 
+3. Module should be capable enough to handle the customer details
 4. Module should be flexible enough to track the reward points of and add consestion in the bill.
 5. Module should be flexible enough to update hte database by considering the return details. 
 
