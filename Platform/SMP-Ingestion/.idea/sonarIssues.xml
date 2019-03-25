@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/project/assembly.sbt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resource/ingestion.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/ingestion.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/app/IngestionApp.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/config/IngestionConfigurations.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/config/IngestionConstant.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/config/SparkConfigs.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/SourceCode/Dice/DicePlatform/FlowEngine/src/main/scala/io/dice/platform/flowengine/streaming/StreamHandler.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/elasticsearch-spark-example-master/ES-DICE/src/main/resources/log_analyzer.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/elasticsearch-spark-example-master/ES-DICE/src/main/scala/app/MainApp.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/elasticsearch-spark-example-master/ES-DICE/src/main/scala/config/AppConfig.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
